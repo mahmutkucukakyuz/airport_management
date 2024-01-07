@@ -1,0 +1,6 @@
+AircraftID,Model,Capacity,AirlineID
+1,Boeing737,215,1
+2,Boeing777,396,1
+3,AirbusA320,180,2
+4,AirbusA380,853,2
+5,Boeing787,330,3

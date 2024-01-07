@@ -1,0 +1,5 @@
+Reservation id: 9
+Passenger name: Jane surname: Doe
+Flight id: 1
+Seat number: 12riza
+Reservation date: 2024-01-06
